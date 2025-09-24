@@ -2,7 +2,7 @@
   "name": "just-eat",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server-app.js",
   "scripts": {
   "start": "node server-app.js",
   "test": "echo \"Error: no test specified\" && exit 1"
